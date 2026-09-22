@@ -197,3 +197,11 @@ Serving Layer: Completed with Synapse Analytics
 
 Power BI Dashboards: Successfully connected and operational
 
+Cloud Architect extension:
+--------------------------
+
+The original project demonstrates the data-engineering flow. The staged extension toward a production-oriented Azure architecture is documented in:
+
+- [Cloud Architecture Extension Roadmap](docs/CLOUD_ARCHITECTURE_EXTENSION.md)
+
+The extension covers incremental ingestion, data quality, managed identity, Key Vault, networking, monitoring, Terraform, CI/CD, migration planning and cost control. Infrastructure is intentionally not deployed automatically.
